@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694260389401",
+    "project_id": "civildeal-userapp",
+    "storage_bucket": "civildeal-userapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694260389401:android:ce821666b8f28d632c3c88",
+        "android_client_info": {
+          "package_name": "com.civildeal.civildeal_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694260389401-8u2v11q9gao287rj7v0svka8p2trl8uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZ9T9_rbVvdErtmTQ9l7-WrVVwQaEuOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694260389401-8u2v11q9gao287rj7v0svka8p2trl8uh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
